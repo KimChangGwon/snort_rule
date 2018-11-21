@@ -1,7 +1,13 @@
 # Snort_rule
 
-Https protocol uses ssl/tls.\n
+Https protocol uses ssl/tls.
 This new 'snort_rule.rueles' refers to SNI(Server Name Indication) field in SSL.
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
